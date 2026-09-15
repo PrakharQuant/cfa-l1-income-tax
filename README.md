@@ -1,4 +1,4 @@
-# Income Taxes — One Master Example
+# Income Taxes — Interactive Learning for CFA L1
 
 An interactive, browser-based learning tool that explains **current tax, deferred tax, temporary differences, permanent differences, and the effective tax rate** through one fictional company: **Bright Co.**
 
